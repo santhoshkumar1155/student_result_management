@@ -2,7 +2,7 @@
 
 ## About the project ℹ️
 
-A website for managing Student result management 🔥. Autentication purpose...
+A website for managing Student result management 🔥. Authentication purpose...
 
 ## Features 🎯
 
