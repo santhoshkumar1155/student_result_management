@@ -2,7 +2,7 @@
 
 ## About the project ℹ️
 
-A website for managing Student result management 🔥. It is eay to visualize the result
+A website for managing Student result management 🔥. Autentication purpose...
 
 ## Features 🎯
 
